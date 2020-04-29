@@ -1,0 +1,4 @@
+#ignore all pdf files
+*.pdf
+*.cif
+*.zip
